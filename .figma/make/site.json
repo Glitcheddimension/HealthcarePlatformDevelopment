@@ -1,0 +1,10 @@
+{
+  "description": "Empowering users with thalassemia awareness, this platform facilitates screening, genetic counselling, and personalized health insights for informed healthcare decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
